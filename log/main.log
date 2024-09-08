@@ -1,0 +1,202 @@
+2024-09-08 13:23:04,427 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 13:23:04,428 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 13:23:04,430 - INFO -  * Restarting with stat
+2024-09-08 13:23:05,307 - WARNING -  * Debugger is active!
+2024-09-08 13:23:05,310 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:37:42,533 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 14:37:42,533 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 14:37:42,536 - INFO -  * Restarting with stat
+2024-09-08 14:37:43,505 - WARNING -  * Debugger is active!
+2024-09-08 14:37:43,510 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:37:49,433 - INFO - 127.0.0.1 - - [08/Sep/2024 14:37:49] "[31m[1mGET /api/callback-request HTTP/1.1[0m" 405 -
+2024-09-08 14:38:33,031 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 14:38:33,163 - INFO -  * Restarting with stat
+2024-09-08 14:38:34,151 - WARNING -  * Debugger is active!
+2024-09-08 14:38:34,155 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:38:37,573 - INFO - 127.0.0.1 - - [08/Sep/2024 14:38:37] "[33mGET /api/callback-request HTTP/1.1[0m" 404 -
+2024-09-08 14:38:44,042 - INFO - 127.0.0.1 - - [08/Sep/2024 14:38:44] "[31m[1mGET /api/callback_request HTTP/1.1[0m" 405 -
+2024-09-08 14:38:54,120 - INFO - 127.0.0.1 - - [08/Sep/2024 14:38:54] "[35m[1mPOST /api/callback_request HTTP/1.1[0m" 500 -
+2024-09-08 14:43:06,165 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 14:43:06,285 - INFO -  * Restarting with stat
+2024-09-08 14:43:07,480 - WARNING -  * Debugger is active!
+2024-09-08 14:43:07,483 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:43:08,331 - INFO - 127.0.0.1 - - [08/Sep/2024 14:43:08] "[35m[1mPOST /api/callback_request HTTP/1.1[0m" 500 -
+2024-09-08 14:46:09,457 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 14:46:09,572 - INFO -  * Restarting with stat
+2024-09-08 14:46:10,623 - WARNING -  * Debugger is active!
+2024-09-08 14:46:10,626 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:46:18,952 - INFO - 127.0.0.1 - - [08/Sep/2024 14:46:18] "[35m[1mPOST /api/callback_request HTTP/1.1[0m" 500 -
+2024-09-08 14:46:25,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 14:46:25,649 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 14:46:25,651 - INFO -  * Restarting with stat
+2024-09-08 14:46:26,663 - WARNING -  * Debugger is active!
+2024-09-08 14:46:26,668 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:46:28,478 - INFO - 127.0.0.1 - - [08/Sep/2024 14:46:28] "[35m[1mPOST /api/callback_request HTTP/1.1[0m" 500 -
+2024-09-08 14:47:17,202 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 14:47:17,203 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 14:47:17,205 - INFO -  * Restarting with stat
+2024-09-08 14:47:18,472 - WARNING -  * Debugger is active!
+2024-09-08 14:47:18,477 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:47:20,794 - INFO - 127.0.0.1 - - [08/Sep/2024 14:47:20] "[35m[1mPOST /api/callback_request HTTP/1.1[0m" 500 -
+2024-09-08 14:48:04,745 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 14:48:04,745 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 14:48:04,750 - INFO -  * Restarting with stat
+2024-09-08 14:48:05,982 - WARNING -  * Debugger is active!
+2024-09-08 14:48:05,986 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:48:08,204 - INFO - 127.0.0.1 - - [08/Sep/2024 14:48:08] "POST /api/callback_request HTTP/1.1" 200 -
+2024-09-08 14:51:05,599 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 14:51:05,747 - INFO -  * Restarting with stat
+2024-09-08 14:51:06,909 - WARNING -  * Debugger is active!
+2024-09-08 14:51:06,913 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 14:54:41,142 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 14:54:41,243 - INFO -  * Restarting with stat
+2024-09-08 15:09:37,471 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 15:09:37,472 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 15:09:37,473 - INFO -  * Restarting with stat
+2024-09-08 15:09:38,520 - WARNING -  * Debugger is active!
+2024-09-08 15:09:38,523 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 15:09:42,087 - INFO - callback_request function has started...
+2024-09-08 15:09:42,088 - DEBUG - Records have been added
+2024-09-08 15:09:42,101 - INFO - callback_request function has ended...
+2024-09-08 15:09:42,102 - INFO - 127.0.0.1 - - [08/Sep/2024 15:09:42] "POST /api/callback_request HTTP/1.1" 200 -
+2024-09-08 15:10:19,547 - INFO - callback_request function has started...
+2024-09-08 15:10:19,548 - ERROR - 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+2024-09-08 15:10:19,548 - INFO - callback_request function has ended...
+2024-09-08 15:10:19,548 - INFO - 127.0.0.1 - - [08/Sep/2024 15:10:19] "[31m[1mPOST /api/callback_request HTTP/1.1[0m" 400 -
+2024-09-08 15:11:24,982 - INFO - callback_request function has started...
+2024-09-08 15:11:24,982 - DEBUG - No payload data
+2024-09-08 15:11:24,982 - INFO - callback_request function has ended...
+2024-09-08 15:11:24,982 - INFO - 127.0.0.1 - - [08/Sep/2024 15:11:24] "[31m[1mPOST /api/callback_request HTTP/1.1[0m" 400 -
+2024-09-08 15:12:01,009 - INFO - callback_request function has started...
+2024-09-08 15:12:01,010 - ERROR - 400 Bad Request: Failed to decode JSON object: Expecting value: line 1 column 1 (char 0)
+2024-09-08 15:12:01,010 - INFO - callback_request function has ended...
+2024-09-08 15:12:01,010 - INFO - 127.0.0.1 - - [08/Sep/2024 15:12:01] "[31m[1mPOST /api/callback_request HTTP/1.1[0m" 400 -
+2024-09-08 15:48:59,202 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 15:48:59,202 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 15:48:59,204 - INFO -  * Restarting with stat
+2024-09-08 15:49:00,229 - WARNING -  * Debugger is active!
+2024-09-08 15:49:00,233 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 15:49:23,373 - INFO - callback_request function has started...
+2024-09-08 15:49:23,387 - DEBUG - Records have been added
+2024-09-08 15:49:23,396 - INFO - callback_request function has ended...
+2024-09-08 15:49:23,396 - INFO - 127.0.0.1 - - [08/Sep/2024 15:49:23] "POST /api/callback_request HTTP/1.1" 200 -
+2024-09-08 15:50:39,807 - INFO - callback_request function has started...
+2024-09-08 15:50:39,811 - DEBUG - Records have been added
+2024-09-08 15:50:39,813 - INFO - callback_request function has ended...
+2024-09-08 15:50:39,813 - INFO - 127.0.0.1 - - [08/Sep/2024 15:50:39] "POST /api/callback_request HTTP/1.1" 200 -
+2024-09-08 19:13:18,275 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 19:13:18,276 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 19:13:18,279 - INFO -  * Restarting with stat
+2024-09-08 19:13:19,484 - WARNING -  * Debugger is active!
+2024-09-08 19:13:19,490 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 19:14:22,067 - ERROR - 'CustomerInteractions' object is not iterable
+2024-09-08 19:14:22,068 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:14:22,069 - INFO - 127.0.0.1 - - [08/Sep/2024 19:14:22] "[31m[1mGET /api/track?request_id=9486 HTTP/1.1[0m" 400 -
+2024-09-08 19:14:48,189 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 19:14:48,316 - INFO -  * Restarting with stat
+2024-09-08 19:14:49,420 - WARNING -  * Debugger is active!
+2024-09-08 19:14:49,424 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 19:14:50,011 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:14:50,012 - INFO - 127.0.0.1 - - [08/Sep/2024 19:14:50] "GET /api/track?request_id=9486 HTTP/1.1" 200 -
+2024-09-08 19:15:45,402 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:15:45,402 - INFO - 127.0.0.1 - - [08/Sep/2024 19:15:45] "GET /api/track?request_id=4007 HTTP/1.1" 200 -
+2024-09-08 19:16:47,089 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:16:47,089 - INFO - 127.0.0.1 - - [08/Sep/2024 19:16:47] "[31m[1mGET /api/track?request_id=40 HTTP/1.1[0m" 400 -
+2024-09-08 19:16:54,337 - DEBUG - 1586 has not found
+2024-09-08 19:16:54,337 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:16:54,338 - INFO - 127.0.0.1 - - [08/Sep/2024 19:16:54] "[31m[1mGET /api/track?request_id=1586 HTTP/1.1[0m" 400 -
+2024-09-08 19:18:14,737 - INFO - 127.0.0.1 - - [08/Sep/2024 19:18:14] "[33mPOST /api/customercare_callback_request/9486 HTTP/1.1[0m" 404 -
+2024-09-08 19:18:33,645 - INFO - 127.0.0.1 - - [08/Sep/2024 19:18:33] "[33mPUT /api/customercare_callback_request/9486 HTTP/1.1[0m" 404 -
+2024-09-08 19:19:01,421 - INFO - customercare_callback_request function has started...
+2024-09-08 19:19:01,430 - ERROR - (psycopg2.errors.UndefinedFunction) operator does not exist: character varying = integer
+LINE 3: WHERE customer_interactions.request_id = 9486 
+                                               ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+[SQL: SELECT customer_interactions.interaction_id AS customer_interactions_interaction_id, customer_interactions.request_id AS customer_interactions_request_id, customer_interactions.customer_name AS customer_interactions_customer_name, customer_interactions.phone_number AS customer_interactions_phone_number, customer_interactions.request_type AS customer_interactions_request_type, customer_interactions.preferred_time AS customer_interactions_preferred_time, customer_interactions.additional_info AS customer_interactions_additional_info, customer_interactions.dealer_name AS customer_interactions_dealer_name, customer_interactions.dealer_phone_number AS customer_interactions_dealer_phone_number, customer_interactions.interaction_summary AS customer_interactions_interaction_summary, customer_interactions.next_steps AS customer_interactions_next_steps, customer_interactions.customer_status AS customer_interactions_customer_status, customer_interactions.created_at AS customer_interactions_created_at, customer_interactions.updated_at AS customer_interactions_updated_at 
+FROM customer_interactions 
+WHERE customer_interactions.request_id = %(request_id_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'request_id_1': 9486, 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-09-08 19:19:01,430 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:19:01,431 - INFO - 127.0.0.1 - - [08/Sep/2024 19:19:01] "[31m[1mPUT /api/callback_request/9486 HTTP/1.1[0m" 400 -
+2024-09-08 19:25:05,529 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 19:25:05,639 - INFO -  * Restarting with stat
+2024-09-08 19:25:06,822 - WARNING -  * Debugger is active!
+2024-09-08 19:25:06,826 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 19:25:09,168 - INFO - customercare_callback_request function has started...
+2024-09-08 19:25:09,174 - DEBUG - customer_name associated with request_id not matched with name in payload
+2024-09-08 19:25:09,174 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:25:09,175 - INFO - 127.0.0.1 - - [08/Sep/2024 19:25:09] "[31m[1mPUT /api/callback_request/9486 HTTP/1.1[0m" 400 -
+2024-09-08 19:26:16,575 - INFO - customercare_callback_request function has started...
+2024-09-08 19:26:16,594 - DEBUG - Updated the record associated with request_id=9486
+2024-09-08 19:26:16,595 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:26:16,595 - INFO - 127.0.0.1 - - [08/Sep/2024 19:26:16] "PUT /api/callback_request/9486 HTTP/1.1" 200 -
+2024-09-08 19:26:53,274 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:26:53,275 - INFO - 127.0.0.1 - - [08/Sep/2024 19:26:53] "GET /api/track?request_id=9486 HTTP/1.1" 200 -
+2024-09-08 19:27:54,864 - INFO - customercare_callback_request function has started...
+2024-09-08 19:27:54,871 - DEBUG - Updated the record associated with request_id=9486
+2024-09-08 19:27:54,871 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:27:54,871 - INFO - 127.0.0.1 - - [08/Sep/2024 19:27:54] "PUT /api/callback_request/9486 HTTP/1.1" 200 -
+2024-09-08 19:27:58,807 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:27:58,808 - INFO - 127.0.0.1 - - [08/Sep/2024 19:27:58] "GET /api/track?request_id=9486 HTTP/1.1" 200 -
+2024-09-08 19:28:39,045 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 19:28:39,192 - INFO -  * Restarting with stat
+2024-09-08 19:28:40,210 - WARNING -  * Debugger is active!
+2024-09-08 19:28:40,214 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 19:37:03,413 - INFO - callback_request function has started...
+2024-09-08 19:37:03,429 - DEBUG - New request_id has created = 4249
+2024-09-08 19:37:03,429 - DEBUG - Records have been added with request_id = 4249
+2024-09-08 19:37:03,434 - INFO - callback_request function has ended...
+2024-09-08 19:37:03,434 - INFO - 127.0.0.1 - - [08/Sep/2024 19:37:03] "POST /api/callback_request HTTP/1.1" 200 -
+2024-09-08 19:38:47,426 - INFO - customercare_callback_request function has started...
+2024-09-08 19:38:47,437 - DEBUG - Updated the record associated with request_id=4249
+2024-09-08 19:38:47,437 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:38:47,437 - INFO - 127.0.0.1 - - [08/Sep/2024 19:38:47] "PUT /api/callback_request/4249 HTTP/1.1" 200 -
+2024-09-08 19:39:17,202 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:39:17,203 - INFO - 127.0.0.1 - - [08/Sep/2024 19:39:17] "GET /api/track?request_id=4249 HTTP/1.1" 200 -
+2024-09-08 19:56:53,546 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 19:56:53,546 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 19:56:53,548 - INFO -  * Restarting with stat
+2024-09-08 19:56:54,626 - WARNING -  * Debugger is active!
+2024-09-08 19:56:54,635 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 19:56:56,204 - ERROR - 'list' object has no attribute 'to_dict'
+2024-09-08 19:56:56,205 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:56:56,205 - INFO - 127.0.0.1 - - [08/Sep/2024 19:56:56] "[31m[1mGET /api/dealers/customer_info?dealer_name=ABC%20Showroom HTTP/1.1[0m" 400 -
+2024-09-08 19:57:30,707 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 19:57:30,829 - INFO -  * Restarting with stat
+2024-09-08 19:57:32,047 - WARNING -  * Debugger is active!
+2024-09-08 19:57:32,052 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 19:57:32,260 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:57:32,262 - INFO - 127.0.0.1 - - [08/Sep/2024 19:57:32] "GET /api/dealers/customer_info?dealer_name=ABC%20Showroom HTTP/1.1" 200 -
+2024-09-08 19:58:07,006 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 19:58:07,107 - INFO -  * Restarting with stat
+2024-09-08 19:58:08,344 - WARNING -  * Debugger is active!
+2024-09-08 19:58:08,349 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 19:58:08,389 - INFO - customercare_callback_request function has ended...
+2024-09-08 19:58:08,389 - INFO - 127.0.0.1 - - [08/Sep/2024 19:58:08] "GET /api/dealers/customer_info?dealer_name=ABC%20Showroom HTTP/1.1" 200 -
+2024-09-08 20:43:57,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 20:43:57,023 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 20:43:57,028 - INFO -  * Restarting with stat
+2024-09-08 20:43:59,608 - WARNING -  * Debugger is active!
+2024-09-08 20:43:59,627 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 20:44:00,043 - ERROR - 'CustomerInteractions' object has no attribute 'request_time'
+2024-09-08 20:44:00,043 - INFO - customercare_callback_request function has ended...
+2024-09-08 20:44:00,045 - INFO - 127.0.0.1 - - [08/Sep/2024 20:44:00] "[31m[1mGET /api/dealers/customer_info?dealer_name=ABC%20Showroom HTTP/1.1[0m" 400 -
+2024-09-08 20:44:44,477 - INFO -  * Detected change in 'C:\\Users\\Dinesh Sai\\Documents\\Job Training\\Flask applications\\Customer Service - API Workflow\\apps\\app.py', reloading
+2024-09-08 20:44:44,706 - INFO -  * Restarting with stat
+2024-09-08 20:44:46,764 - WARNING -  * Debugger is active!
+2024-09-08 20:44:46,775 - INFO -  * Debugger PIN: 148-326-869
+2024-09-08 20:44:46,859 - INFO - customercare_callback_request function has ended...
+2024-09-08 20:44:46,860 - INFO - 127.0.0.1 - - [08/Sep/2024 20:44:46] "GET /api/dealers/customer_info?dealer_name=ABC%20Showroom HTTP/1.1" 200 -
