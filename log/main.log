@@ -184,8 +184,6 @@ WHERE customer_interactions.request_id = %(request_id_1)s
 2024-09-08 19:58:08,344 - WARNING -  * Debugger is active!
 2024-09-08 19:58:08,349 - INFO -  * Debugger PIN: 148-326-869
 2024-09-08 19:58:08,389 - INFO - customercare_callback_request function has ended...
-2024-09-08 19:58:08,389 - INFO - 127.0.0.1 - - [08/Sep/2024 19:58:08] "GET /api/dealers/customer_info?dealer_name=ABC%20Showroom HTTP/1.1" 200 -
-2024-09-08 20:43:57,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
 2024-09-08 20:43:57,023 - INFO - [33mPress CTRL+C to quit[0m
 2024-09-08 20:43:57,028 - INFO -  * Restarting with stat
